@@ -5,3 +5,4 @@ data/*
 *.zip
 */Keras-Learning-Notes/*
 *.mp4
+*/.ipynb_checkpoints/*
