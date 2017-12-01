@@ -1,0 +1,7 @@
+*.rar
+data/*
+*.pkl
+*.npy
+*.zip
+*/Keras-Learning-Notes/*
+*.mp4
